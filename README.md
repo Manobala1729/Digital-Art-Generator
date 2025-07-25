@@ -50,7 +50,4 @@ Features two artistic modes: **black stencil** and **colored outline**, rendered
 javac GradualOutlineDrawerblack.java
 java GradualOutlineDrawerblack
 
-```for color
-javac GradualOutlineDrawercolor.java
-java GradualOutlineDrawercolor
 
